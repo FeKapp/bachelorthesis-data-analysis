@@ -20,5 +20,7 @@ dist/
 # VS Code settings
 .vscode/
 
+.env
+
 
 .DS_Store
