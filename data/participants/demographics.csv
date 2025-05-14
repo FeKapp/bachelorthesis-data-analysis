@@ -1,0 +1,83 @@
+gender,age,country,education_level,ai_proficiency,financial_literacy,consent_given,instructed_passed,data_quality,data_quality_comment
+Male,21,Switzerland,"Tertiary (college, university)",2,6,true,true,true,null
+Female,24,Switzerland,"Tertiary (college, university)",3,2,true,true,true,null
+Male,20,Switzerland,"Tertiary (college, university)",5,5,true,true,true,null
+Male,21,Switzerland,"Tertiary (college, university)",7,7,true,true,true,null
+Male,20,Switzerland,"Tertiary (college, university)",4,1,true,true,true,null
+Male,19,Netherlands,"Tertiary (college, university)",5,4,true,true,true,null
+Male,18,Sweden,"Tertiary (college, university)",4,6,true,true,true,null
+Female,21,Singapore,"Tertiary (college, university)",1,1,true,false,true,null
+Female,23,Singapore,"Tertiary (college, university)",3,3,true,true,true,null
+Male,22,Switzerland,"Tertiary (college, university)",6,4,true,false,true,null
+Male,21,Switzerland,"Tertiary (college, university)",4,4,true,false,true,null
+Male,22,Finland,"Tertiary (college, university)",5,5,true,true,true,null
+Male,20,Switzerland,High School,2,1,true,true,true,null
+Male,23,Sweden,"Tertiary (college, university)",4,3,true,true,true,null
+Male,23,Sweden,"Tertiary (college, university)",3,3,true,true,true,null
+Male,18,Switzerland,"Tertiary (college, university)",5,6,true,true,true,null
+Female,24,Switzerland,"Tertiary (college, university)",1,1,true,true,true,null
+Male,22,Switzerland,"Tertiary (college, university)",4,6,true,true,true,null
+Male,23,Switzerland,"Tertiary (college, university)",2,4,true,true,true,null
+Male,24,Singapore,"Tertiary (college, university)",3,5,true,true,true,null
+Male,21,Switzerland,"Tertiary (college, university)",4,6,true,true,true,null
+Female,21,Switzerland,High School,1,3,true,false,true,null
+Male,23,Sweden,"Tertiary (college, university)",7,2,true,true,true,null
+Female,24,Switzerland,"Tertiary (college, university)",1,1,true,false,true,null
+Male,23,Switzerland,"Tertiary (college, university)",4,2,true,true,true,null
+Male,22,Germany,"Tertiary (college, university)",4,5,true,true,true,null
+Male,21,Switzerland,High School,4,4,true,true,true,null
+Female,21,Switzerland,"Tertiary (college, university)",5,5,true,true,true,null
+Male,24,Switzerland,"Tertiary (college, university)",4,3,true,true,false,"Given the fact that my financial knowledge is not the best, I think there could be better candidates."
+Male,18,Switzerland,"Tertiary (college, university)",4,5,true,false,true,null
+Female,18,Switzerland,High School,5,5,true,true,true,null
+Male,23,Switzerland,"Tertiary (college, university)",5,1,true,true,true,null
+Female,26,Chile,"Tertiary (college, university)",4,2,true,true,true,null
+Female,24,Sweden,"Tertiary (college, university)",2,4,true,true,true,null
+Male,23,Switzerland,Other,7,7,true,true,true,null
+Male,27,Singapore,"Tertiary (college, university)",4,4,true,false,true,null
+Male,23,Switzerland,High School,4,4,true,true,true,null
+Female,19,United States,"Tertiary (college, university)",4,3,true,true,true,null
+Male,23,Switzerland,"Tertiary (college, university)",3,6,true,true,true,null
+Male,23,Switzerland,"Tertiary (college, university)",3,6,true,true,true,null
+Male,25,Switzerland,"Tertiary (college, university)",4,2,true,true,true,null
+Male,24,Switzerland,"Tertiary (college, university)",4,4,true,false,true,null
+Male,18,Switzerland,High School,3,2,true,true,true,null
+Female,24,Switzerland,"Tertiary (college, university)",1,1,true,true,true,null
+Male,20,Germany,"Tertiary (college, university)",6,5,true,true,true,null
+Female,24,Switzerland,"Tertiary (college, university)",4,1,true,true,true,null
+Male,19,Sweden,"Tertiary (college, university)",5,5,true,true,true,null
+Male,21,Germany,"Tertiary (college, university)",5,6,true,true,true,null
+Male,23,Switzerland,"Tertiary (college, university)",3,3,true,false,true,null
+Male,23,Switzerland,"Tertiary (college, university)",3,5,true,true,true,null
+Male,22,Malaysia,"Tertiary (college, university)",1,1,true,true,true,null
+Male,28,Switzerland,"Tertiary (college, university)",5,2,true,true,true,null
+Male,25,Netherlands,"Tertiary (college, university)",2,1,true,false,true,null
+Male,26,Switzerland,"Tertiary (college, university)",4,2,true,false,true,null
+Male,25,Sweden,"Tertiary (college, university)",5,6,true,false,true,null
+Male,25,Singapore,"Tertiary (college, university)",2,2,true,true,true,null
+Male,22,Sweden,"Tertiary (college, university)",6,6,true,false,true,null
+Male,22,Switzerland,"Tertiary (college, university)",6,6,true,true,true,null
+Male,21,Germany,"Tertiary (college, university)",6,5,true,false,true,null
+Male,24,Switzerland,Other,7,7,true,false,true,null
+Female,22,Switzerland,"Tertiary (college, university)",4,4,true,true,true,null
+Male,25,Switzerland,"Tertiary (college, university)",5,4,true,false,false,"I think it is hard to make an uneducated prediction, meaning deciding between 2 funds without knowing the context behind both the composition of the fund and the environment events happening during the period."
+Male,20,Switzerland,"Tertiary (college, university)",5,6,true,true,true,null
+Male,24,Switzerland,"Tertiary (college, university)",6,3,true,true,true,null
+Female,20,Switzerland,"Tertiary (college, university)",5,2,true,true,true,null
+Male,28,Switzerland,"Tertiary (college, university)",4,4,true,false,true,null
+Male,40,Switzerland,"Tertiary (college, university)",4,4,true,false,true,null
+Female,23,Sweden,"Tertiary (college, university)",4,4,true,true,true,null
+Male,25,Switzerland,High School,6,6,true,false,true,null
+Male,23,Switzerland,"Tertiary (college, university)",3,3,true,true,true,null
+Female,30,Switzerland,"Tertiary (college, university)",5,5,true,true,true,null
+Male,34,Switzerland,"Tertiary (college, university)",4,5,true,true,true,null
+Male,24,Switzerland,Other,3,5,true,true,true,null
+Male,27,Switzerland,"Tertiary (college, university)",6,6,true,false,true,null
+Male,24,Switzerland,"Tertiary (college, university)",7,5,true,true,true,null
+Male,22,Switzerland,High School,3,5,true,true,true,null
+Male,26,Switzerland,"Tertiary (college, university)",5,5,true,true,true,null
+Male,22,Switzerland,"Tertiary (college, university)",2,4,true,true,true,null
+Male,22,Switzerland,"Tertiary (college, university)",3,4,true,true,true,null
+Male,23,Austria,"Tertiary (college, university)",5,5,true,true,true,null
+Male,24,Switzerland,"Tertiary (college, university)",5,1,true,true,false,"I didn't really understand what the AI did and how its recommendations were made, so I was unsure if I should follow its instructions or not. I'm not sure if you should use my answers"
+Male,21,Switzerland,High School,5,1,true,false,true,null
