@@ -1,0 +1,5 @@
+scenario_id,scenario_name,ai_type,num_trials,periods_per_trial,description
+2e1e164a-699c-4c00-acff-61a98e23ddec,short-term_unbalanced,unbiased,100,1,"100 trials with 1 period each, unbiased AI"
+b8426ff5-c6f2-4f25-a259-764e993ffa29,short-term_balanced,biased,100,1,"100 trials with 1 period each, biased AI"
+4438925c-5c3f-4773-aa1d-de52214915b1,long-term_unbalanced,unbiased,5,20,"5 trials with 20 periods each, unbiased AI"
+e25b48e9-4356-4c4c-8b05-94132af9dac1,long-term_balanced,biased,5,20,"5 trials with 20 periods each, biased AI"

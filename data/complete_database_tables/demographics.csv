@@ -1,0 +1,83 @@
+demographic_id,session_id,gender,age,country,education_level,ai_proficiency,financial_literacy,created_at
+a4c9b24e-c7df-440d-b5eb-40cd37744d65,f723fc6b-d6df-4448-8736-7e08e9f16aaf,Female,24,Switzerland,"Tertiary (college, university)",3,2,2025-04-20 06:07:33.709502+00
+d9d912f0-e573-4634-8973-aacb3a99327e,65a1c029-9463-449a-821c-c996eed37397,Male,20,Switzerland,"Tertiary (college, university)",5,5,2025-04-21 10:45:33.501834+00
+7a8e6f00-a73c-4416-867c-90e676c98c53,10d83f1f-77eb-44c5-8bb6-a7ecb25c8227,Male,19,Netherlands,"Tertiary (college, university)",5,4,2025-04-21 16:06:31.461569+00
+6bfb067d-acdb-4637-bad2-8c676b9cf430,24c846f7-8c09-4270-904e-616d003cb73d,Male,21,Switzerland,"Tertiary (college, university)",7,7,2025-04-21 16:14:37.335449+00
+56167f92-047f-4cbc-98ed-96553d5deb1b,1ef45d9a-f155-4204-a56a-c784ae0e3833,Male,21,Switzerland,"Tertiary (college, university)",2,6,2025-04-21 17:25:47.06775+00
+819f7966-0747-47af-aff8-73880216f783,e1202062-98b5-445a-98f9-a72c35e6252e,Male,20,Switzerland,"Tertiary (college, university)",4,1,2025-04-21 17:29:58.594817+00
+7421a41b-5bc0-4dc7-83b7-df19cbf60c84,7b60f536-6c2c-415f-a6cc-d6d59fe9d796,Male,18,Sweden,"Tertiary (college, university)",4,6,2025-04-22 04:37:08.17081+00
+37a1a7a3-32fa-4d9a-b1bf-b44de63c266c,ae563685-c693-4cee-b2c7-c6b0fedd54dc,Male,21,Switzerland,"Tertiary (college, university)",4,4,2025-04-22 19:43:59.631067+00
+f97c2be7-dca0-4cd8-b177-47a7bb0a3318,223a1856-abda-4ec5-9024-ca4c5c395633,Female,23,Singapore,"Tertiary (college, university)",3,3,2025-04-23 03:53:01.031442+00
+a862f258-323f-4d2b-9edf-5d6f1995acc5,ec752c13-b9e5-4ada-85bd-04128ff3ed4e,Male,22,Switzerland,"Tertiary (college, university)",6,4,2025-04-23 10:48:45.025896+00
+249583ac-cfdb-46f0-87d8-9c896d9237ed,b69eb1c6-2b23-498a-bc92-795bb058aabf,Male,22,Finland,"Tertiary (college, university)",5,5,2025-04-23 14:13:14.396248+00
+a608e540-db3f-4bcf-ae87-f92dd5ba5259,d1f4ad8d-b1a0-4fb1-9623-ed9cd33a35d1,Male,20,Switzerland,High School,2,1,2025-04-23 14:29:56.77987+00
+f36cfa4e-9843-47c1-92e3-f2a01adfd415,68afc513-3b14-4918-8284-d725d52779c1,Male,23,Sweden,"Tertiary (college, university)",4,3,2025-04-23 14:48:01.009397+00
+82e6eb80-578a-4a39-b117-5fccf9b68cf8,f91d8c66-4d61-4dcd-a362-9345f0ebf401,Female,21,Singapore,"Tertiary (college, university)",1,1,2025-04-23 17:41:24.132773+00
+626a2002-e6e2-4abd-adc7-bb12512445cd,3f040d02-600e-41e4-9a4c-3112b89fe59f,Female,24,Switzerland,"Tertiary (college, university)",1,1,2025-04-24 07:25:12.66563+00
+ce4fc47d-d774-432e-8fd3-3e96ee8a38fd,318e4b76-b79f-43a9-8ca0-1d333c641d5e,Male,18,Switzerland,"Tertiary (college, university)",5,6,2025-04-24 08:49:03.660463+00
+21b7e3e2-b910-4e63-9bb2-f74b0224ef52,da9d40b3-0ad2-4a38-a9e7-aabf0cd01fdc,Male,23,Sweden,"Tertiary (college, university)",3,3,2025-04-24 10:13:55.48293+00
+0a70c4b1-0ca3-44d1-b82d-19c0235b9ad2,8ddd4b91-36f4-49bf-b590-16c4ce2be9d1,Male,22,Switzerland,"Tertiary (college, university)",4,6,2025-04-24 10:40:28.855762+00
+3c967ca7-98b7-4828-b8d0-604916679a22,c75cc79e-d218-4afa-9d84-575639c86929,Male,23,Switzerland,"Tertiary (college, university)",2,4,2025-04-24 11:56:18.209985+00
+90ab99ea-e3d7-4f47-8e27-3ed656e0954a,499c75bb-12d9-424f-a509-e4cc6629d09d,Male,24,Singapore,"Tertiary (college, university)",3,5,2025-04-24 12:03:04.190235+00
+92c197c6-2a69-42d7-bf7e-0799f3e79d31,93d2a1e9-32ed-4911-b10a-1690aa4fc0ff,Male,21,Switzerland,"Tertiary (college, university)",4,6,2025-04-24 13:15:16.743248+00
+50f9ebb1-f115-4c58-aad8-9753b12d0df8,3b5ac0d7-bab4-45f7-8ed4-94711b7abdcc,Male,23,Sweden,"Tertiary (college, university)",7,2,2025-04-24 14:30:20.00602+00
+4955016a-25b2-4084-9887-252e864c0a87,9cbe7cb0-f6c4-4707-a8f5-4a031b82fc2d,Female,24,Switzerland,"Tertiary (college, university)",1,1,2025-04-24 15:46:25.100578+00
+39b2abfe-aa13-48e8-ba4f-ad6b7396edca,f386f3bc-e543-4d13-8b5f-8128dfe50ba6,Female,21,Switzerland,High School,1,3,2025-04-24 16:43:51.620879+00
+815c2bae-5880-4842-897d-e38defc99f2d,12fe94cb-f2f0-4ad0-a030-6c936c6c629e,Male,23,Switzerland,"Tertiary (college, university)",4,2,2025-04-24 16:47:03.438744+00
+8a78d205-40c1-41a5-9525-9ec611156642,6c0779d9-bd91-49d6-8f37-f55d8394ad02,Male,22,Germany,"Tertiary (college, university)",4,5,2025-04-25 08:11:29.396229+00
+dcbb3893-98bc-4524-a813-080a4fafe354,614e6698-346e-4cd5-97f2-54a1e559ebde,Female,21,Switzerland,"Tertiary (college, university)",5,5,2025-04-25 10:49:59.196258+00
+3384d2bd-f3a3-46ca-82a5-a6cb5060c9fc,9b812fdb-825a-4d04-9c3d-4f548c8617bd,Male,21,Switzerland,High School,4,4,2025-04-25 11:31:08.300892+00
+d45147b3-00fd-4b36-8494-e9fbfaebf68d,0a23b02d-7b80-4df5-a1a0-e8fbc0276d6e,Female,18,Switzerland,High School,5,5,2025-04-25 11:49:51.273831+00
+02299850-dfef-4dca-b212-7e94d8273ebc,9d146500-a1b1-444d-9f37-58cc70d81536,Male,18,Switzerland,"Tertiary (college, university)",4,5,2025-04-25 12:48:28.900224+00
+de48298c-22e6-4bf7-8ad6-0fe43cb6513e,ce8ccdbc-34f7-4bef-bd6b-97c52fb1590f,Male,24,Switzerland,"Tertiary (college, university)",4,3,2025-04-25 15:23:19.432319+00
+d7bb7b2d-c7d3-4ced-8ec6-bb25709feee3,abc6a488-46e7-473d-a2f4-1fbcf4a2d2a1,Male,23,Switzerland,"Tertiary (college, university)",5,1,2025-04-25 15:43:27.724182+00
+d5b69c44-4ab6-48b6-bd9d-3a78bf1b819e,657416e7-fb7b-49b0-9755-537af5718720,Female,26,Chile,"Tertiary (college, university)",4,2,2025-04-25 16:26:16.730786+00
+d3551cf5-edf6-493d-b05e-7453f2a71785,79efbb15-c7da-4061-90d9-6c31ce65d092,Male,23,Switzerland,High School,4,4,2025-04-26 02:21:59.532685+00
+b0c0c510-da6b-4218-bfeb-fb21794c7f6f,3c874e22-9fa8-4f35-b6a1-b32b0eb48efe,Male,23,Switzerland,Other,7,7,2025-04-26 14:20:42.058704+00
+73fab75f-5f5d-4079-850f-451356ec0b43,be3dcbd9-6535-4619-8138-01422b4a6709,Male,23,Switzerland,"Tertiary (college, university)",3,6,2025-04-27 09:47:16.080226+00
+9deaf269-864b-4426-9702-f9deb2712a2a,e1361b65-80a8-44e7-9e9d-59d9c982a14f,Female,24,Sweden,"Tertiary (college, university)",2,4,2025-04-27 09:51:52.900306+00
+cbdc6028-41d3-4e21-9ad1-088f0b3455f4,6dd7ac4b-e4b9-4d43-9a87-5ee3f1077ab9,Male,25,Switzerland,"Tertiary (college, university)",4,2,2025-04-27 10:32:10.531899+00
+a349d2d4-e43e-4783-a1e5-d62cbfec8775,717aa192-0429-404d-aba9-ddf0d0798281,Male,27,Singapore,"Tertiary (college, university)",4,4,2025-04-27 13:49:45.171735+00
+91d4b64e-5036-46af-b078-48dc9700d593,2967e321-a244-4929-a148-d7e0d20ef7aa,Male,23,Switzerland,"Tertiary (college, university)",3,6,2025-04-27 15:07:48.06166+00
+8c6a7fc4-c400-437f-bdd8-8503d7a95adb,7dc888d9-45e6-42ff-ac72-fbd91dbee9a5,Male,18,Switzerland,High School,3,2,2025-04-27 20:58:24.503394+00
+fa9397e1-d267-4d34-9cd4-c402597b9e7c,14713f36-1b1b-4a42-a4de-46c7e56c66ae,Male,24,Switzerland,"Tertiary (college, university)",4,4,2025-04-28 06:40:38.974232+00
+038bd482-95f2-454e-999a-9e75a39757b6,dfdcddc5-32c8-4421-8b95-108e652b4e6a,Female,24,Switzerland,"Tertiary (college, university)",1,1,2025-04-28 08:21:29.440359+00
+cfcc95c8-0f9f-47e2-ae00-2ec109666c28,716e6f08-2578-4fe0-ae30-4cf78d32a96f,Female,19,United States,"Tertiary (college, university)",4,3,2025-04-28 08:25:52.096899+00
+5fda73bc-46f2-4d76-9af1-6eefaf130948,ffb0fe6f-80e9-470b-9f6a-176908950a85,Male,20,Germany,"Tertiary (college, university)",6,5,2025-04-28 11:21:03.312035+00
+c8ded70f-d36e-4921-b764-f959f1e4a3bc,1a8abf56-521e-460c-af74-7a5aae74109d,Female,24,Switzerland,"Tertiary (college, university)",4,1,2025-04-28 12:33:21.029813+00
+777a2d0f-33de-4133-a1ed-c3df6799574a,fdb4ee6d-00b5-48e2-9338-ecfa01631d10,Male,25,Netherlands,"Tertiary (college, university)",2,1,2025-04-28 17:57:43.998401+00
+339c8115-ae7c-464e-be80-a183593935c0,20bd9ac0-179e-4b1b-9e49-cb3d84129936,Male,19,Sweden,"Tertiary (college, university)",5,5,2025-04-29 03:41:31.274825+00
+f55ccfd7-e124-45bf-9387-c0db3493a9ee,2aa0ae51-7e27-4a37-b040-6415e6470279,Male,25,Sweden,"Tertiary (college, university)",5,6,2025-04-29 05:43:08.718115+00
+d1df30a2-9228-406b-b720-96b92f3371a1,6d165451-8223-47dc-a07c-885bb91d7f91,Male,25,Singapore,"Tertiary (college, university)",2,2,2025-04-29 06:09:37.139081+00
+4da27ed2-e5a6-4e92-a0a7-a718cbb878db,ee6d5176-8f52-49ca-99b6-30c83f5305de,Male,23,Switzerland,"Tertiary (college, university)",3,5,2025-04-29 07:09:22.864616+00
+067245aa-bf2d-4263-bf26-8e5cc6a3be6f,c2e0713d-fb4e-4f50-8b50-ab446fe946c1,Male,22,Sweden,"Tertiary (college, university)",6,6,2025-04-29 07:16:00.287077+00
+14e3751a-9d32-4e71-a028-49e1ee235d5f,cc3d7eac-d124-46f4-8cdc-6be905f44dcc,Male,26,Switzerland,"Tertiary (college, university)",4,2,2025-04-29 07:41:48.094121+00
+cb41c06e-10d5-4204-ac89-c40618ee66bb,591de1a9-93bd-441b-89d7-c8576b5f3cac,Male,22,Malaysia,"Tertiary (college, university)",1,1,2025-04-29 08:39:36.723881+00
+fb89548c-f967-4771-8696-3be485d0c1f8,7f2cdb08-3ee5-428c-82c4-2c16669074ca,Male,22,Switzerland,"Tertiary (college, university)",6,6,2025-04-29 10:57:46.840747+00
+d2b5443b-0a85-4bb0-b226-f5b290ea7941,21045b1b-2a21-42ae-8471-5e66a8e7a88d,Male,28,Switzerland,"Tertiary (college, university)",5,2,2025-04-29 11:52:12.774533+00
+a99d7833-bf88-4a12-81ee-e44681dc3e93,7912c10a-025d-410b-a282-3efea91e4868,Female,22,Switzerland,"Tertiary (college, university)",4,4,2025-04-29 12:21:38.889961+00
+15061dc3-e300-4c78-8f00-3c70b091b65e,982794f8-b091-4b51-9e00-e819793cecb2,Male,24,Switzerland,Other,7,7,2025-04-29 13:43:05.823386+00
+dba2b51f-3794-4ac7-8783-9851904c611d,e5c6c423-4441-4481-ad41-b84c4e194b21,Male,25,Switzerland,"Tertiary (college, university)",5,4,2025-04-29 14:00:48.455377+00
+30a076c6-10bb-4237-b791-b5f2d94e917d,b051c717-e9d0-409f-a09c-238220560eff,Male,21,Germany,"Tertiary (college, university)",5,6,2025-04-29 14:05:27.481442+00
+e0ef7de2-5343-4dba-a4cb-f9cb96b82c99,5806f692-e7fe-4fed-bda1-00d12a5ce5a5,Male,23,Switzerland,"Tertiary (college, university)",3,3,2025-04-29 14:19:02.852733+00
+1c272e24-df64-4977-bae8-5d7cdd206afe,f13c9c43-46f1-4500-8b89-43a9883a20bd,Male,24,Switzerland,"Tertiary (college, university)",6,3,2025-04-29 16:13:27.846133+00
+3537c7eb-1ad0-49a5-bd7d-bc4ecb5916d2,e6cbca16-0f42-4680-9688-68686c8fc6a4,Male,21,Germany,"Tertiary (college, university)",6,5,2025-04-30 06:33:39.451631+00
+80339332-e7ad-454d-ae38-8a2190902cef,216c05e5-da7d-4a33-96f5-db2888409f74,Male,20,Switzerland,"Tertiary (college, university)",5,6,2025-04-30 09:16:30.836436+00
+5a44c26b-6313-4d00-af04-c51c8a7c1f3e,57a284b4-49d1-480f-8ec8-a4664a6b4e4c,Female,20,Switzerland,"Tertiary (college, university)",5,2,2025-04-30 13:05:56.284673+00
+3a767f4d-e6f6-437c-8075-2cef7904435a,506e9ad1-0f30-456e-af64-14ab488cca4e,Female,23,Sweden,"Tertiary (college, university)",4,4,2025-04-30 15:55:37.451068+00
+d1abe012-a0a8-4eb3-b53e-d58a098f3d59,cee4cd0c-7851-47e9-b0cd-e7dc59985959,Female,30,Switzerland,"Tertiary (college, university)",5,5,2025-05-01 08:52:42.280576+00
+ed8d321b-3969-4fb6-9519-195fef682094,0bb54d23-62b8-4607-9091-72fa8b1a304e,Male,40,Switzerland,"Tertiary (college, university)",4,4,2025-05-01 08:55:39.462271+00
+d65a73fc-366e-42c4-90b0-45cdde84df96,965cc540-228e-422b-90a5-586d734b57d2,Male,34,Switzerland,"Tertiary (college, university)",4,5,2025-05-01 09:28:28.955749+00
+3330ad8e-cc07-4c5a-a1ef-6986480cbab7,8bc27421-f880-4840-af38-f6529411fb1a,Male,25,Switzerland,High School,6,6,2025-05-01 09:47:04.386901+00
+e6fd5cfc-9d07-42f4-9ac6-5480b8778ff4,95c40b13-700c-4c9b-903b-e80af656ed15,Male,27,Switzerland,"Tertiary (college, university)",6,6,2025-05-01 12:25:12.891536+00
+c554eded-8264-422c-8665-0abb8ecf75b6,0c7043c3-2af3-4372-b189-f1c57fda7150,Male,24,Switzerland,Other,3,5,2025-05-01 22:17:34.781346+00
+9ba068d9-8768-4448-a389-c33d84de3c0d,a523c582-ea9b-4bc1-b709-40d70071d53d,Male,23,Switzerland,"Tertiary (college, university)",3,3,2025-05-02 05:36:27.956926+00
+4695840a-7255-4902-98f7-43949d0f992b,72de01e3-7cc8-49d8-969c-2ca378c3e903,Male,28,Switzerland,"Tertiary (college, university)",4,4,2025-05-02 10:20:37.546374+00
+4f3b3202-23b5-4bee-bd6c-ec84aa531c61,bab5757a-71b9-4129-8485-2be7b28e693c,Male,22,Switzerland,High School,3,5,2025-05-02 13:15:34.172243+00
+44f3af2c-4c1b-4df5-a700-9b2f8206f1db,7510f430-e898-4610-b471-676ce547eacd,Male,24,Switzerland,"Tertiary (college, university)",7,5,2025-05-03 19:11:06.493992+00
+84915b7d-b92b-47b9-b61e-445081d111c5,f0f7d274-62a3-4702-ba02-7c27fa7049b6,Male,22,Switzerland,"Tertiary (college, university)",3,4,2025-05-06 07:57:00.33596+00
+731f4ab1-34ad-4b96-b457-848b296489f7,45314202-0707-4df8-97f3-c547bc748764,Male,26,Switzerland,"Tertiary (college, university)",5,5,2025-05-06 10:16:39.08788+00
+f7a0274b-0ff6-4860-bc96-7bfcab95636d,089f4a30-cfa6-4c6a-8b48-4afa6555fbdc,Male,22,Switzerland,"Tertiary (college, university)",2,4,2025-05-06 20:47:13.405465+00
+b64a839d-dc3d-46be-ad08-08a7664177cc,641ceaac-12ee-411c-b48e-3f89dd58a2ad,Male,23,Austria,"Tertiary (college, university)",5,5,2025-05-07 04:52:43.877547+00
+e82b623b-fdf7-4555-8617-ceb6a7833212,6e3371c7-a340-4f38-9818-b5243ee26837,Male,24,Switzerland,"Tertiary (college, university)",5,1,2025-05-07 11:28:53.583159+00
+fdd03985-15ea-4539-a246-50c45cd42f20,36ac0be5-1329-4bfc-aa91-16cca66e04ed,Male,21,Switzerland,High School,5,1,2025-05-07 14:50:45.716914+00
