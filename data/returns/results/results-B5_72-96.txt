@@ -1,0 +1,10 @@
+Percentage of months with negative returns:        31.23%
+Percentage of quarters with negative returns:      23.76%
+Percentage of years with negative returns:         3.85%
+Percentage of 5-year periods with negative returns:0.00%
+
+Mean monthly return:         0.72%
+Std dev monthly returns:     1.79%
+Annualized mean (arith):     8.60%
+Annualized mean (geom):      8.94%
+Annualized std dev:          6.20%
